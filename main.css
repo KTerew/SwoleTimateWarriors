@@ -1,0 +1,13 @@
+:root {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    background-color: turquoise;
+
+}
+
